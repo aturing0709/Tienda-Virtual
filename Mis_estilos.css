@@ -1,0 +1,21 @@
+
+.contenedor{
+	
+	background: #666;
+	border-radius: 20px;
+	-webkit-transition: -webkit-transform 0.3s ease-in-out 0.1s;
+    box-shadow: 15px 10px 20px;
+}
+
+.contenedor:hover{
+	-webkit-transform:scale(1.2);
+
+}
+
+figure img{
+	padding: 5px;
+	background: #666;
+	border-radius: 20px;
+	-webkit-transition: -webkit-transform 0.3s ease-in-out 0.1s;
+    box-shadow: 15px 10px 20px;
+}
